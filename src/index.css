@@ -2,10 +2,10 @@
   --color-darkest: #123a40;
   --color-dark: #132057;
   --color-medium: #ced5da;
-  --color-light: #f5f6f5;
+  --color-light: #1316f5;
 
-  --color-theme: #1098ad;
-  --color-accent: #ffa94d;
+  --color-theme: #1278ad;
+  --color-accent: #afa94d;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
